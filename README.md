@@ -9,7 +9,8 @@ Include the problem statement and Dataset
 
 
 ## Neural Network Model
-Include the neural network model diagram.
+<img width="1248" height="963" alt="image" src="https://github.com/user-attachments/assets/eb17a14f-cd49-412a-9d67-86e44033ff19" />
+
 
 ## DESIGN STEPS
 ### STEP 1: 
